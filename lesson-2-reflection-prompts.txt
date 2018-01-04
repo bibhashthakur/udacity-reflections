@@ -14,7 +14,8 @@ organized? How would branches help?
   Adding functionality which is not ready to be merged into the main code base. When the feature is ready to be released, the branches may be merged.
 
 How do the diagrams help you visualize the branch structure?
-
+  Helps to understand branches and reachability.
+  
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
