@@ -11,6 +11,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  Adding functionality which is not ready to be merged into the main code base. When the feature is ready to be released, the branches may be merged.
 
 How do the diagrams help you visualize the branch structure?
 
