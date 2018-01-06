@@ -20,7 +20,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Offline access to previous commit history. 
+    We can merge this remote state with our local state and then push the
+    updated state on GitHub.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
